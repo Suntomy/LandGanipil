@@ -1,0 +1,1 @@
+JS result: {'interest': '$18,468.44', 'main': '$250,000.00', 'trades': '3', 'win': '100%', 'profit': '$22.65', 'pos': '2', 'log': 9}

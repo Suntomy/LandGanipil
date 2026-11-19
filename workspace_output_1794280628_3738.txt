@@ -1,0 +1,2 @@
+JS result: buy
+JS result: {'positions': 5, 'manual': 1}

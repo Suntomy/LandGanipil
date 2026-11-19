@@ -1,0 +1,3 @@
+Use see-image to view: /workspace/.screenshots/step_012.png
+=== END ===
+JS result: {'users': '4', 'cap': '$313,900.00', 'rows': 4, 'audit': '0 events'}
